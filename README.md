@@ -4,10 +4,12 @@ Think Before You Print For Web Browsers is an extension for web browsers that as
 # Background
 Many businesses and organisations in the United Kingdom try to reduce paper waste. Paper waste accounts for a significant amount of waste: in the United Kingdom alone, the council West Lothian 
 
+It is customary in the UK to see many businesses and other organisations have the following in their email signature: **"Think Before You Print"**. This browser extension goes one step further by asking the user to think before they print as they are about to print an online document. 
+
 # Techical Architecture in Diagrammatic Form
 
 # Requirements
-In order to use this extension, it is advisable to have the following:
+In order to use this extension, it is advisable to have the following depending upon your system:
 
 ### Windows
 
