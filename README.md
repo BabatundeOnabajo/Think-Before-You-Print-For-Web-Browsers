@@ -2,7 +2,7 @@
 Think Before You Print For Web Browsers is an extension for web browsers that asks the end user if they really need to print an online document. The extension is unaffiliated but continues on from the official campaign by many businesses and organisations in the United Kingdom to reduce paper waste.
 
 # Background
-
+Many businesses and organisations in the United Kingdom try to reduce paper waste. Paper waste accounts for a significant amount of waste: in the United Kingdom alone, the council West Lothian 
 
 # Requirements
 In order to use this extension, it is advisable to have the following:
@@ -12,7 +12,7 @@ In order to use this extension, it is advisable to have the following:
 ### Mac
 
 # Instructions
-In order to use this extension, it is helpful to follow the instructions down below.
+In order to use this extension, it is helpful to follow the instructions down below:
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
