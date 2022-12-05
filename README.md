@@ -4,10 +4,13 @@ Think Before You Print For Web Browsers is an extension for web browsers that as
 # Background
 Many businesses and organisations in the United Kingdom try to reduce paper waste. Paper waste accounts for a significant amount of waste: in the United Kingdom alone, the council West Lothian 
 
+# Techical Architecture in Diagrammatic Form
+
 # Requirements
 In order to use this extension, it is advisable to have the following:
 
 ### Windows
+
 
 ### Mac
 
