@@ -14,7 +14,11 @@ In order to use this extension, it is advisable to have the following depending 
 ### Windows
 
 
+** It is not necessary to have an internet connection to use this extension on Windows systems. **
+
 ### Mac
+
+** It is not necessary to have an internet connection to use this extension on Mac systems. **
 
 # Instructions
 In order to use this extension, it is helpful to follow the instructions down below:
