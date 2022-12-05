@@ -24,7 +24,7 @@ In order to use this extension, it is advisable to have the following depending 
 In order to use this extension, it is helpful to follow the instructions down below:
 
 # Applications
-This browser extension will be particularly helpful for organisations that would like to bolster their environmental impact. The 
+This browser extension will be particularly helpful for organisations that would like to bolster their environmental impact. Organisations can pre-install the extension on company devices to help encourage users to not waste paper. 
 
 # Credits
 Babatunde Onabajo (ChurchMapped Limited)
