@@ -1,1 +1,33 @@
+{
+"manifest_version": 3,
+"name": "Think Before You Print Extension",
+"description": "This extension helps prevent you from mindlessly printing paper, helping the environment along the way.",
+"version": "1.0",
 
+    "icons":{
+ 
+            "16": "Icon for Think Before You Print (JPEG) 16x16.jpg",
+            "32": "Icon for Think Before You Print (JPEG) 32x32.jpg",
+            "48": "Icon for Think Before You Print (JPEG) 48x48.jpg",
+            "128": "Icon for Think Before You Print (JPEG) 128x128.jpg"        
+    },
+    
+"action": {
+    
+        
+        "default_title":"This extension helps prevent you mindlessly print out paper. For further information, visi https://github.com/BabatundeOnabajo/Think-Before-You-Print-For-Web-Browsers",
+        "default_icon": "Icon for Think Before You Print (JPEG) 48x48.jpg"
+        
+  }, "content_scripts": [{
+      
+      "matches": ["<all_urls>"],
+            
+            "js": ["content.js"]
+        
+        }],
+  
+  "permissions": ["activeTab", "tabs", "topSites"],
+    
+"host_permissions": ["<all_urls>"]    
+  
+}
